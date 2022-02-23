@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Apple" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_right = 32.0
+margin_bottom = 32.0
+color = Color( 0.752941, 0.0901961, 0.180392, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
